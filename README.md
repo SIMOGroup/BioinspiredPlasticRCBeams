@@ -2,14 +2,13 @@
 This example aims to analyse dynamic performance of cement/concrete-based beam structures. 
 The Primitive minimal surface was employed as reinforcement of cement-based beams. 
 The TPMS-Primitive reinforcement scaffolds and molds are printed with thermoplastic Polylactic Acid (PLA) material, then pouring cementitious mortar to cast the beams
-All computations and analysis were written and run by Abaqus software.
 
 Structure of BioinspiredPlasticRCBeams program: 
 1. Beamshell.inp. 
 2. PC1beam.inp. 
 3. PC2beam1.inp 
 
-Requirement: Abaqus software
+Software provided: Abaqus
 
 # Contributors
 - Vuong Nguyen-Van
